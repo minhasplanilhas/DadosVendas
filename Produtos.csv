@@ -1,0 +1,54 @@
+CodProduto;Descrição;CodMarca;Preço Unitário;Categoria;Marca;Imagem Marca
+P001;Galaxy Z fold 4;SM;8500;Smartphone;Samsung;https://i.imgur.com/Z2wboEy.png
+P002;Galaxy Z Flip 4;SM;7500;Smartphone;Samsung;https://i.imgur.com/Z2wboEy.png
+P003;Galaxy S23 Ultra;SM;9000;Smartphone;Samsung;https://i.imgur.com/Z2wboEy.png
+P004;Galaxy S22;SM;6000;Smartphone;Samsung;https://i.imgur.com/Z2wboEy.png
+P005;Galaxy S21;SM;4500;Smartphone;Samsung;https://i.imgur.com/Z2wboEy.png
+P006;Galaxy S20 FE;SM;2200;Smartphone;Samsung;https://i.imgur.com/Z2wboEy.png
+P007;Galaxy A22;SM;1500;Smartphone;Samsung;https://i.imgur.com/Z2wboEy.png
+P008;Galaxy Watch 4;SM;1200;SmartWatch;Samsung;https://i.imgur.com/Z2wboEy.png
+P009;Galaxy Watch 5;SM;1600;SmartWatch;Samsung;https://i.imgur.com/Z2wboEy.png
+P010;Tablet Galaxy Tab A7 Lite;SM;900;Tablet;Samsung;https://i.imgur.com/Z2wboEy.png
+P011;Tablet Galaxy S8 5G;SM;1500;Tablet;Samsung;https://i.imgur.com/Z2wboEy.png
+P012;Galaxy A23;SM;1600;Smartphone;Samsung;https://i.imgur.com/Z2wboEy.png
+P013;Galaxy S21 FE;SM;1600;Smartphone;Samsung;https://i.imgur.com/Z2wboEy.png
+P014;Galaxy M13;SM;900;Smartphone;Samsung;https://i.imgur.com/Z2wboEy.png
+P015;iPhone 14 PRO MAX;AP;9800;Smartphone;Apple;https://i.imgur.com/ayDI3ES.png
+P016;iPhone 14 PRO;AP;9500;Smartphone;Apple;https://i.imgur.com/ayDI3ES.png
+P017;iPhone 14 Plus;AP;8800;Smartphone;Apple;https://i.imgur.com/ayDI3ES.png
+P018;iPhone 14;AP;8000;Smartphone;Apple;https://i.imgur.com/ayDI3ES.png
+P019;iPhone 13;AP;6000;Smartphone;Apple;https://i.imgur.com/ayDI3ES.png
+P020;iPhone 12;AP;5000;Smartphone;Apple;https://i.imgur.com/ayDI3ES.png
+P021;iPad Pro 11;AP;4500;Smartphone;Apple;https://i.imgur.com/ayDI3ES.png
+P022;iPad Mini;AP;4800;Tablet;Apple;https://i.imgur.com/ayDI3ES.png
+P023;iPad Air;AP;5000;Tablet;Apple;https://i.imgur.com/ayDI3ES.png
+P024;Airpods;AP;1800;Fones de Ouvido;Apple;https://i.imgur.com/ayDI3ES.png
+P025;Apple Watch Series 6;AP;2000;SmartWatch;Apple;https://i.imgur.com/ayDI3ES.png
+P026;Apple Watch Series 7;AP;2800;SmartWatch;Apple;https://i.imgur.com/ayDI3ES.png
+P027;Apple Watch Series 8;AP;3800;SmartWatch;Apple;https://i.imgur.com/ayDI3ES.png
+P028;Apple Watch SE;AP;2250;SmartWatch;Apple;https://i.imgur.com/ayDI3ES.png
+P029;Motorola Edge 30 Ultra;MT;2400;Smartphone;Motorola;https://i.imgur.com/x2VLfRJ.png
+P030;Motorola Moto G53;MT;1700;Smartphone;Motorola;https://i.imgur.com/x2VLfRJ.png
+P031;Motorola Moto G22;MT;1300;Smartphone;Motorola;https://i.imgur.com/x2VLfRJ.png
+P032;Motorola Moto G23;MT;1400;Smartphone;Motorola;https://i.imgur.com/x2VLfRJ.png
+P033;Motorola Moto E22;MT;750;Smartphone;Motorola;https://i.imgur.com/x2VLfRJ.png
+P034;Motorola Moto G60S;MT;1450;Smartphone;Motorola;https://i.imgur.com/x2VLfRJ.png
+P035;Motorola Moto E13;MT;700;Smartphone;Motorola;https://i.imgur.com/x2VLfRJ.png
+P036;Motorola Edge 30;MT;2300;Smartphone;Motorola;https://i.imgur.com/x2VLfRJ.png
+P037;Motorola Edge G32;MT;1200;Smartphone;Motorola;https://i.imgur.com/x2VLfRJ.png
+P038;Motorola Moto Buds 85;MT;200;Fones de Ouvido;Motorola;https://i.imgur.com/x2VLfRJ.png
+P039;Motorola Earbuds 2-S;MT;100;Fones de Ouvido;Motorola;https://i.imgur.com/x2VLfRJ.png
+P040;Motorola Moto E20;MT;600;Smartphone;Motorola;https://i.imgur.com/x2VLfRJ.png
+P041;Motorola Edge 20 Lite;MT;1900;Smartphone;Motorola;https://i.imgur.com/x2VLfRJ.png
+P042;Motorola Moto Watch 100;MT;810;SmartWatch;Motorola;https://i.imgur.com/x2VLfRJ.png
+P043;Redmi AirDots 3;XI;190;Fones de Ouvido;Xiaomi;https://i.imgur.com/Tc8M7K0.png
+P044;Smart MI Band 6;XI;297;SmartWatch;Xiaomi;https://i.imgur.com/Tc8M7K0.png
+P045;Redmi Note 11;XI;1180;Smartphone;Xiaomi;https://i.imgur.com/Tc8M7K0.png
+P046;Redmi Note 12;XI;1600;Smartphone;Xiaomi;https://i.imgur.com/Tc8M7K0.png
+P047;Redmi 10A;XI;870;Smartphone;Xiaomi;https://i.imgur.com/Tc8M7K0.png
+P048;Poco X5;XI;1950;Smartphone;Xiaomi;https://i.imgur.com/Tc8M7K0.png
+P049;Poco M5;XI;1200;Smartphone;Xiaomi;https://i.imgur.com/Tc8M7K0.png
+P050;Redmi 12C;XI;1100;Smartphone;Xiaomi;https://i.imgur.com/Tc8M7K0.png
+P051;Redmi Note 12 Pro;XI;1900;Smartphone;Xiaomi;https://i.imgur.com/Tc8M7K0.png
+P052;Smartwatch Amazfit Gts 2;XI;450;SmartWatch;Xiaomi;https://i.imgur.com/Tc8M7K0.png
+P053;Smartwatch Amazfit Bip U Pro;XI;420;SmartWatch;Xiaomi;https://i.imgur.com/Tc8M7K0.png
